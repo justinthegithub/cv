@@ -1,3 +1,10 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+}
+
 
 h1 {
     color: blue;
@@ -43,7 +50,7 @@ h3 {
   text-indent: 10em; 
 }
 p {
-  text-indent: 15em; 
+  text-indent: 10em; 
 }
 
 
@@ -57,9 +64,10 @@ p {
 
 
   body {
-    background: linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+    background-color: #f0f0f0; 
+  
+    
 }
 
 
   
-  .
